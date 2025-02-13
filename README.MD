@@ -11,7 +11,7 @@ Este projeto é um sistema de compra de ingressos online, permitindo que  os us
 🚀 Tecnologias Utilizadas
 
 - HTML e CSS 
-- 
+- JavaScript
 
 ---
 
